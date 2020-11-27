@@ -16,7 +16,7 @@ automatically passed to the production environment to deploy the code (now live)
 ## Jenkins
 - Free, opensource, built on Java
 - An automation server that can be used to implement a CI/CD pipeline
-- Link up to github where it can automatically run tests against the code
-pushed and give instant feedback
+- Link up to GitHub where it can listen for changes in code and automatically
+run tests against the code pushed and give instant feedback
 - If tests pass you can allow it to push this code to deployment or to an
 environment where it can be deployed at a moments notice
